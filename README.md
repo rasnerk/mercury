@@ -18,7 +18,7 @@ Simply click 'Fork' in the top right corner of the screen.
 
 Then run:
 
-#### `git clone https://github.com/YOURUSERNAME/mercury.git`
+### `git clone https://github.com/YOURUSERNAME/mercury.git`
 
 Once you have it cloned to your local machine run:
 
