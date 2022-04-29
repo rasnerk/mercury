@@ -8,6 +8,8 @@ This project was created to gain experience using [Three.js](https://threejs.org
 
 What you will find is a rotating model of Mercury.
 
+You can view the project here (Mercury)[https://rasnerk.github.io/mercury/].
+
 ## How to open Mercury locally
 
 ### `Fork or Clone Repository`
