@@ -2,9 +2,9 @@
 
 ![Mercury](/public/mercury.PNG)
 
-This project was created using [Three.js](https://threejs.org/) & [React.js](https://reactjs.org/?msclkid=e17c8c08c72e11ec9a297af88393c3b6).
-
 ## About This Project
+
+This project was created using [Three.js](https://threejs.org/) & [React.js](https://reactjs.org/?msclkid=e17c8c08c72e11ec9a297af88393c3b6).
 
 This project was created to gain experience using [Three.js](https://threejs.org/).
 
@@ -12,7 +12,7 @@ What you will find is a rotating model of Mercury.
 
 You can view the project here [Mercury](https://rasnerk.github.io/mercury/).
 
-## How to open Mercury locally
+<!-- ## How to open Mercury locally
 
 ### `Fork or Clone Repository`
 
@@ -32,4 +32,4 @@ This will ensure you the required node_modules.
 
 Finally run:
 
-### `npm start`
+### `npm start` -->
