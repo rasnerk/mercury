@@ -1,5 +1,7 @@
 # Mercury
 
+![Mercury](/public/mercury.PNG)
+
 This project was created using [Three.js](https://threejs.org/) & [React.js](https://reactjs.org/?msclkid=e17c8c08c72e11ec9a297af88393c3b6).
 
 ## About This Project
